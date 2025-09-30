@@ -20,3 +20,5 @@ Intuitive customization options to meet various security needs.
 PyQt5: For building the graphical user interface.
 
 Python: For the core logic and password generation.
+
+![bandicam 2025-09-30 10-05-44-025](https://github.com/user-attachments/assets/2fde2d76-cc15-4dbd-8c6e-f82621c527eb)
